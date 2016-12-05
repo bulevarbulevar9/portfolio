@@ -220,7 +220,7 @@ function portfolioComponent () {
     yo.update(element, newElement)
   }
   function openNewTab () {
-    var url = ""
+    var url = "https://bulevarbulevar9.github.io/quiz/"
     var win = window.open(url,'_blank');
     win.focus();
   }
@@ -283,7 +283,7 @@ function footerComponent () {
       <a href="mailto:bulevarbulevar9@gmail.com ">
         <i class="${css.icon} fa fa-envelope-o" aria-hidden="true"></i>
       </a>
-      <a href="https://www.facebook.com/E-Sova-1040698875990332/">
+      <a href="https://www.facebook.com/profile.php?id=100009190114262">
        <i class="${css.icon} fa fa-facebook" aria-hidden="true"></i>
       </a>
     </div>
